@@ -1,0 +1,4 @@
+ToolSet: 3.3.4 (local)@C:\cygwin64
+Options: 
+
+Options:-DCMAKE_CXX_COMPILER=/usr/bin/cygstart.exe
