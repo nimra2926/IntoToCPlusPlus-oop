@@ -1,0 +1,8 @@
+quiz marks 6              out of        10         quiz marks 6              out of        10         quiz marks 6             out of         50         quiz marks 6             out of         50   MID EXAM MARKS = 23              out of        50
+RETAKE MID EXAM = 34              out of        50
+FINAL MID TERM EXAM MARKS = 34              out of        50
+FINAL EXAM MARKS = 34              out of       100
+quiz marks 7              out of        10         quiz marks 7              out of        10         quiz marks 7             out of         20         quiz marks 7             out of         20   MID EXAM MARKS = 35              out of        50
+RETAKE MID EXAM = 34              out of        50
+MID EXAM MARKS = 35              out of        50
+FINAL EXAM MARKS = 67              out of       100

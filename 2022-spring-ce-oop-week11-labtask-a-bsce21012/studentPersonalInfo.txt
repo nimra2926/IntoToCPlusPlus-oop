@@ -1,0 +1,11 @@
+
+Name : nimra     Age = 19
+Father name : maqbool ahemed  Email : bsce21012@itu.edu.pk[D[C
+ Gender : female Phone Number = 3235453019
+Address = 89 zeenat block iqbal town lahore
+------------------------------------------------------------------------------------
+Name : atima    Age = 19
+Father name : ehsan   Email : bsce21016@itu.edu.pk
+ Gender : female Phone Number = 3225453019
+Address = 78 johar town lahore
+------------------------------------------------------------------------------------
